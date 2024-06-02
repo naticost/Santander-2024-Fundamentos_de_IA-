@@ -22,7 +22,7 @@ Agora, vamos conferir alguns dos projetos incríveis que surgiram durante o boot
 
 ## 🎙️ 2000 Dose de Diversão: O Podcast dos Desenhos Nostálgicos
 
-Um podcast que mergulha na nostalgia dos desenhos animados dos anos 2000, combinando a colaboração entre humanos e inteligências artificiais para criar uma experiência única e emocionante. [Confira aqui!](https://github.com/seu_usuario/nome_do_repositorio)
+Um podcast que mergulha na nostalgia dos desenhos animados dos anos 2000, combinando a colaboração entre humanos e inteligências artificiais para criar uma experiência única e emocionante. [Confira aqui!](https://github.com/naticost/Santander-2024-Fundamentos_de_IA-/tree/nova_branch/-Criando_Podcast_com_IAs_Generativas-main/-Criando_Podcast_com_IAs_Generativas-main)
 
 ## 🎭 Doramas na Netflix: Uma Jornada pelos Dramas Coreanos
 
